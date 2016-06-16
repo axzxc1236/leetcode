@@ -1,0 +1,7 @@
+我在這裡放了為leetcode題目(不包含任何需要subscribe才能作答的題目)所寫的解答(在我能做到的範圍內)，可能不是最好的code，但我努力了
+
+現在只寫了C語言...因為我這學期在學校學的是C語言(有教一點C++但很少)
+
+這裡的code使用MIT License授權
+
+*如果在檔案裡標示的runtime和你丟到leetcode上測試的runtime不同，屬於正常情況，給leetcode多跑幾次看看
